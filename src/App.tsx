@@ -3,11 +3,11 @@ import "./App.css";
 import Home from "./pages/HomePage/Home";
 
 function App() {
-	return (
-		<div>
-			<Home />
-		</div>
-	);
+  return (
+    <>
+      <Home />
+    </>
+  );
 }
 
 export default App;
